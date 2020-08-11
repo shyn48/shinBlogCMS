@@ -1,6 +1,9 @@
 # shinBlogCMS
 A rather simple blog with a content management system and an admin panel
 
+![alt text](http://up.vbiran.ir/uploads/24528159716170819111_image.png)
+
+
 At this moment, this is front-end only and in order to load up the dependencies you should:
 
 ```
