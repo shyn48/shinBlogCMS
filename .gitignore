@@ -1,0 +1,7 @@
+node_modules
+src/css/bootstrap.css
+src/css/bootstrap-rtl.css
+src/css/style.css
+src/js/bootstrap.min.js
+src/js/jquery.min.js
+src/js/popper.min.js
