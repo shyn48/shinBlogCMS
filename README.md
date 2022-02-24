@@ -15,5 +15,3 @@ After npm finished installing node_modules you can run the server using:
 ```
 npm start
 ```
-
-These steps may change after the back-end is up and running so stay tuned for updates.
